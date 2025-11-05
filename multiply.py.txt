@@ -1,0 +1,4 @@
+# multiply.py
+def multiply(a, b):
+    """Return the multiplication of two numbers."""
+    return a * b
